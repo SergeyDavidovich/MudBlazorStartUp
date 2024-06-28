@@ -1,0 +1,10 @@
+.search-box .mud-input {
+    height: 44px !important;
+    top: -3px;
+}
+
+.search-box .mud-input-outlined-border {
+    border-radius: 8px !important;
+    background-color: var(--mud-palette-surface) !important;
+    z-index: -99;
+}
